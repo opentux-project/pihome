@@ -14,6 +14,7 @@ system including open source software and develop multisenzor solution based on 
 
 ## Current state
 ⚠️ ESP32 - Beta – basic firmware is ready for ESP32 multisenzor. Works as expected. Currently developing option for automatic UDP preset without need to edit FW manually. 
+
 ⚠️ Arduino Mega - v.1.05 -  firmware already tested in production. Users should edit FW manually - MQTT credentials/server, topics as needed. 
 
 

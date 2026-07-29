@@ -11,9 +11,10 @@ Commercial home automation systems are centralized, opaque and vendor-locked.
 Open solutions as Home Assistant and OpenHAB are perfect, but too difficult to build complex home automation from scratch. OpenTUX aims to bring ready-to-use, pre-configurated system including open source software and hardware.
 
 ## Screenshots
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/953a6a98-fe44-48a3-a9dc-a7d225f491f6" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/96f1251f-4592-45ae-8c9d-51d491d0966b" />
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/e5035e4e-c9ca-4a76-bfa6-169126440526" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/953a6a98-fe44-48a3-a9dc-a7d225f491f6" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/96f1251f-4592-45ae-8c9d-51d491d0966b" />
+<br>
+<img width="300" align="center"  alt="image" src="https://github.com/user-attachments/assets/e5035e4e-c9ca-4a76-bfa6-169126440526" />
 
 
 ## Getting started

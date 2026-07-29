@@ -2,8 +2,8 @@
 
 is open-source smart home automation based on Raspberry Pi & Arduino hardware and open project Casa OS with OpenHAB or Home Assistant setups.
 
-🌐 Website: https://opentux.eu 
-📦 Ready-to-flash images for Raspberry Pi 5: available on the website (links below) 
+🌐 Website: https://opentux.eu<br>
+📦 Ready-to-flash images for Raspberry Pi 5: available on the website (links below)<br>
 💬 Contact / community: info@opentux.eu
 
 ## Motivation
